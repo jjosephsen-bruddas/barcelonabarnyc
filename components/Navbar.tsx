@@ -8,6 +8,7 @@ const links = [
   { href: "/shots", label: "THE SHOTS" },
   { href: "/about", label: "OUR STORY" },
   { href: "/events", label: "EVENTS" },
+  { href: "/social", label: "SOCIAL" },
   { href: "/contact", label: "FIND US" },
 ];
 
